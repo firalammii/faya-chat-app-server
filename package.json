@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "babel src -d lib"
+    "start": "nodemon index.js"
   },
   "author": "firomsa bekele",
   "license": "ISC",
